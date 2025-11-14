@@ -42,3 +42,4 @@ C:\dev\Projetos\LibraryAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\dev\Projetos\LibraryAPI\bin\Debug\net8.0\MySqlConnector.dll
 C:\dev\Projetos\LibraryAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\dev\Projetos\LibraryAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\dev\Projetos\LibraryAPI\obj\Debug\net8.0\LibraryAPI.sourcelink.json
